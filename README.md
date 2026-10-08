@@ -1,4 +1,4 @@
-# ☁️ AWS Cloud Practitioner Essentials
+#  AWS Cloud Practitioner Essentials
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner Essentials"/>
@@ -12,7 +12,7 @@
 
 ---
 
-## 📖 About
+##  About
 
 This repository contains my notes and learning documentation from the **AWS Cloud Practitioner Essentials** course.
 
@@ -22,27 +22,27 @@ Each module has its own folder containing **learning notes and a screenshot** do
 
 ---
 
-## 📚 Course Modules
+##  Course Modules
 
-| # | Module |
+|   | Module |
 |---|--------|
-| ☁️ 01 | Cloud Concepts |
-| 🖥️ 02 | Compute in the Cloud |
-| ⚙️ 03 | Exploring Compute Services |
-| 🌍 04 | Going Global |
-| 🌐 05 | Networking |
-| 🪣 06 | Storage |
-| 🗄️ 07 | Databases |
-| 🤖 08 | AI, Machine Learning & Data Analytics |
-| 🔐 09 | Security |
-| 📊 10 | Monitoring, Compliance & Governance |
-| 💰 11 | Pricing & Support |
-| 🚚 12 | Migrating to the AWS Cloud |
-| 🏗️ 13 | Well-Architected Solutions |
+|  01 | Cloud Concepts |
+|  02 | Compute in the Cloud |
+|  03 | Exploring Compute Services |
+|  04 | Going Global |
+|  05 | Networking |
+|  06 | Storage |
+|  07 | Databases |
+|  08 | AI, Machine Learning & Data Analytics |
+|  09 | Security |
+|  10 | Monitoring, Compliance & Governance |
+|  11 | Pricing & Support |
+|  12 | Migrating to the AWS Cloud |
+|  13 | Well-Architected Solutions |
 
 ---
 
-## 🗂️ Repository Structure
+##  Repository Structure
 
 ```text
 aws-course/
@@ -64,19 +64,19 @@ aws-course/
 
 ---
 
-## 🎯 Learning Goal
+##  Learning Goal
 
 Build a strong foundation in **AWS Cloud, core AWS services, security, architecture, and cloud best practices** as part of my journey toward **Cloud & DevOps Engineering**.
 
 ---
 
-## 🛠️ Topics Covered
+##  Topics Covered
 
 `Cloud Computing` · `AWS Global Infrastructure` · `EC2` · `S3` · `VPC` · `IAM` · `Databases` · `Security` · `Monitoring` · `Pricing` · `Migration` · `Well-Architected Framework`
 
 ---
 
-## 🔗 Resources
+##  Resources
 
 - [AWS Cloud Practitioner Essentials](https://explore.skillbuilder.aws/learn/courses/134/aws-cloud-practitioner-essentials)
 - [AWS Training & Certification](https://aws.amazon.com/training/)
@@ -84,5 +84,5 @@ Build a strong foundation in **AWS Cloud, core AWS services, security, architect
 ---
 
 <p align="center">
-  ☁️ <b>Learning AWS • Building Cloud Foundations • Growing as a DevOps Engineer</b> 🚀
+   <b>Learning AWS • Building Cloud Foundations • Growing as a DevOps Engineer</b> 
 </p>
